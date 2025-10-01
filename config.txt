@@ -1,0 +1,2227 @@
+# BL2 Randomiser config (ALL lists from the supplied archive)
+# Lines starting with # are ignored.
+# Each section begins with [Category: <Path-Name>] pick=1
+
+[Category: Class / Axton (Commando) Class Mod UVHM] pick=1
+Engineer
+Grenadier
+Gunner
+Pointman
+Ranger
+Rifleman
+Shock Trooper
+Specialist
+Tactician
+Veteran
+Legendary Engineer
+Legendary Pointman
+Legendary Ranger
+Legendary Raider
+Slayer Of Terramorphous
+
+[Category: Class / Axton (Commando) Class Mod] pick=1
+Engineer
+Grenadier
+Gunner
+Pointman
+Ranger
+Rifleman
+Shock Trooper
+Specialist
+Tactician
+Veteran
+
+[Category: Class / Characters] pick=1
+Axton (Commando)
+Zer0 (Assassin)
+Salvador (Gunzerker)
+Maya (Siren)
+Gaige (Mechromancer)
+Kreig (Psycho)
+
+[Category: Class / Gaige (Mechromancer) Class Mod UVHM] pick=1
+Anarchist
+Catalyst
+Jill of All Trades
+Necromancer
+Prodigy
+Punk
+Roboteer
+Sweetheart
+Technophile
+Zapper
+Legendary Anarchist
+Legendary Catalyst
+Legendary Mechromancer
+Legendary Roboteer
+Slayer Of Terramorphous
+
+[Category: Class / Gaige (Mechromancer) Class Mod] pick=1
+Anarchist
+Catalyst
+Jill of All Trades
+Necromancer
+Prodigy
+Punk
+Roboteer
+Sweetheart
+Technophile
+Zapper
+
+[Category: Class / Kreig (Psycho) Class Mod UVHM] pick=1
+Barbarian
+Blister
+Crunch
+Meat
+Reaper
+Sicle
+Slab
+Toast
+Torch
+Wound
+Legendary Psycho
+Legendary Reaper
+Legendary Sickle
+Legendary Torch
+Slayer Of Terramorphous
+
+[Category: Class / Kreig (Psycho) Class Mod] pick=1
+Barbarian
+Blister
+Crunch
+Meat
+Reaper
+Sicle
+Slab
+Toast
+Torch
+Wound
+
+[Category: Class / Maya (Siren) Class Mod UVHM] pick=1
+Banshee
+Binder
+Cat
+Cleric
+Fox
+Matriarch
+Nurse
+Trickster
+Warder
+Witch
+Legendary Binder
+Legendary Cat
+Legendary Nurse
+Legendary Siren
+Slayer Of Terramorphous
+
+[Category: Class / Maya (Siren) Class Mod] pick=1
+Banshee
+Binder
+Cat
+Cleric
+Fox
+Matriarch
+Nurse
+Trickster
+Warder
+Witch
+
+[Category: Class / Rarities] pick=1
+White
+Green
+Blue
+Purple
+
+[Category: Class / Salvador (Gunzerker) Class Mod UVHM] pick=1
+Beast
+Berzerker
+Devastator
+Monk
+Hoarder
+Raider
+Renegade
+Tank
+Titan
+War Dog
+Legendary Berserker
+Legendary Gunzerker
+Legendary Hoarder
+Legendary Titan
+Slayer Of Terramorphous
+
+[Category: Class / Salvador (Gunzerker) Class Mod] pick=1
+Beast
+Berzerker
+Devastator
+Monk
+Hoarder
+Raider
+Renegade
+Tank
+Titan
+War Dog
+
+[Category: Class / Zer0 (Assassin) Class Mod UVHM] pick=1
+Infiltrator
+Killer
+Ninja
+Professional
+Rogue
+Shot
+Sniper
+Spy
+Stalker
+Survivor
+Legendary Hunter
+Legendary Killer
+Legendary Ninja
+Legendary Sniper
+Slayer Of Terramorphous
+
+[Category: Class / Zer0 (Assassin) Class Mod] pick=1
+Infiltrator
+Killer
+Ninja
+Professional
+Rogue
+Shot
+Sniper
+Spy
+Stalker
+Survivor
+
+[Category: Game / InsanePlaythroughs] pick=1
+No Shield
+No Action Skill
+No Vendors
+No Lootables, Quest Rewards Only
+No Chests or Quest rewards, floor loot only.
+Melee Only
+No Grenades
+No Relic, Class Mods or Skill Points (Action Skill Allowed)
+Cult of the Vault Symbol Finder
+All gear much be 5 levels underlevelled for your character
+Gear must start with the same letter as your name
+
+[Category: Game / Insanitydoseometer] pick=1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+3
+3
+3
+3
+4
+4
+4
+5
+5
+6
+
+[Category: Game / SideQuests] pick=1
+Handsome Jack Here!
+This Town Ain't Big Enough
+Bad Hair Day
+Shielded Favors
+Symbiosis
+Assassinate the Assassins
+The Name Game
+Rock, Paper, Genocide: Fire Weapons!
+Rock, Paper, Genocide: Shock Weapons!
+Rock, Paper, Genocide: Corrosive Weapons!
+Rock, Paper, Genocide: Slag Weapons!
+Claptrap's Secret Stash
+Do No Harm
+Medical Mystery
+Medical Mystery: X-Com-municate
+No Vacancy
+Neither Rain Nor Sleet Nor Skags
+Too Close For Missiles
+In Memoriam
+Cult Following: Eternal Flame
+Cult Following: False Idols
+Cult Following: Lighting the Match
+Cult Following: The Enkindling
+Positive Self Image
+Mighty Morphin'
+You Are Cordially Invited: Party Prep
+You Are Cordially Invited: Tea Party
+Out of Body Experience
+Splinter Group
+No Hard Feelings
+Mine, All Mine
+The Pretty Good Train Robbery
+The Ice Man Cometh
+Bandit Slaughter: Round 1
+Bandit Slaughter: Round 2
+Bandit Slaughter: Round 3
+Bandit Slaughter: Round 4
+Bandit Slaughter: Round 5
+The Good, the Bad, and the Mordecai
+Slap-Happy
+Stalker of Stalkers
+Best Mother's Day Ever
+Safe and Sound
+Minecart Mischief
+Arms Dealing
+Swallowed Whole
+The Cold Shoulder
+Note for Self-Person
+Perfectly Peaceful
+Won't Get Fooled Again
+Clan War: Starting the War
+Clan War: First Place
+Clan War: Reach the Dead Drop
+Clan War: End of the Rainbow
+Clan War: Trailer Trashing
+Clan War: Wakey Wakey
+Clan War: Zafords vs. Hodunks
+Claptrap's Birthday Bash!
+The Overlooked: Medicine Man
+The Overlooked: Shields Up
+The Overlooked: This is Only a Test
+Hidden Journals
+Torture Chairs
+Doctor's Orders
+Rakkaholics Anonymous
+Poetic License
+Animals Rights
+Shoot This Guy in the Face
+The Bane
+Home Movies
+Hell Hath No Fury
+Written by the Victor
+Statuesque
+Rocko's Modern Strife
+Defend Slab Tower
+Hyperion Contract #873
+3:10 to Kaboom
+Breaking the Bank
+Showdown
+Animal Rescue: Medicine
+Animal Rescue: Food
+Animal Rescue: Shelter
+BFFs
+Bearer of Bad News
+Demon Hunter
+Hyperion Slaughter: Round 1
+Hyperion Slaughter: Round 2
+Hyperion Slaughter: Round 3
+Hyperion Slaughter: Round 4
+Hyperion Slaughter: Round 5
+The Chosen One
+Monster Mash (Part 1)
+Monster Mash (Part 2)
+Monster Mash (Part 3)
+A Real Boy: Clothes Make the Man
+A Real Boy: Face Time
+A Real Boy: Human
+Customer Service
+Kill yourself
+To Grandmother's House We Go
+Capture the Flags
+The Lost Treasure
+The Great Escape
+Hungry Like the Skag
+This Just In
+Uncle Teddy
+Get to Know Jack
+
+[Category: Game / SideQuestsDLC] pick=1
+Handsome Jack Here!
+This Town Ain't Big Enough
+Bad Hair Day
+Shielded Favors
+Symbiosis
+Assassinate the Assassins
+The Name Game
+Rock, Paper, Genocide: Fire Weapons!
+Rock, Paper, Genocide: Shock Weapons!
+Rock, Paper, Genocide: Corrosive Weapons!
+Rock, Paper, Genocide: Slag Weapons!
+Claptrap's Secret Stash
+Do No Harm
+Medical Mystery
+Medical Mystery: X-Com-municate
+No Vacancy
+Neither Rain Nor Sleet Nor Skags
+Too Close For Missiles
+In Memoriam
+Cult Following: Eternal Flame
+Cult Following: False Idols
+Cult Following: Lighting the Match
+Cult Following: The Enkindling
+Positive Self Image
+Mighty Morphin'
+You Are Cordially Invited: Party Prep
+You Are Cordially Invited: Tea Party
+Out of Body Experience
+Splinter Group
+No Hard Feelings
+Mine, All Mine
+The Pretty Good Train Robbery
+The Ice Man Cometh
+Bandit Slaughter: Round 1
+Bandit Slaughter: Round 2
+Bandit Slaughter: Round 3
+Bandit Slaughter: Round 4
+Bandit Slaughter: Round 5
+The Good, the Bad, and the Mordecai
+Slap-Happy
+Stalker of Stalkers
+Best Mother's Day Ever
+Safe and Sound
+Minecart Mischief
+Arms Dealing
+Swallowed Whole
+The Cold Shoulder
+Note for Self-Person
+Perfectly Peaceful
+Won't Get Fooled Again
+Clan War: Starting the War
+Clan War: First Place
+Clan War: Reach the Dead Drop
+Clan War: End of the Rainbow
+Clan War: Trailer Trashing
+Clan War: Wakey Wakey
+Clan War: Zafords vs. Hodunks
+Claptrap's Birthday Bash!
+The Overlooked: Medicine Man
+The Overlooked: Shields Up
+The Overlooked: This is Only a Test
+Hidden Journals
+Torture Chairs
+Doctor's Orders
+Rakkaholics Anonymous
+Poetic License
+Animals Rights
+Shoot This Guy in the Face
+The Bane
+Home Movies
+Hell Hath No Fury
+Written by the Victor
+Statuesque
+Rocko's Modern Strife
+Defend Slab Tower
+Hyperion Contract #873
+3:10 to Kaboom
+Breaking the Bank
+Showdown
+Animal Rescue: Medicine
+Animal Rescue: Food
+Animal Rescue: Shelter
+BFFs
+Bearer of Bad News
+Demon Hunter
+Hyperion Slaughter: Round 1
+Hyperion Slaughter: Round 2
+Hyperion Slaughter: Round 3
+Hyperion Slaughter: Round 4
+Hyperion Slaughter: Round 5
+The Chosen One
+Monster Mash (Part 1)
+Monster Mash (Part 2)
+Monster Mash (Part 3)
+A Real Boy: Clothes Make the Man
+A Real Boy: Face Time
+A Real Boy: Human
+Customer Service
+Kill yourself
+To Grandmother's House We Go
+Capture the Flags
+The Lost Treasure
+The Great Escape
+Hungry Like the Skag
+This Just In
+Uncle Teddy
+Get to Know Jack
+Fire Water
+Message In A Bottle (Oasis)
+Message In A Bottle (Wurmwater)
+Giving Jocko A Leg Up
+Wingman
+Burying The Past
+Man's Best Friend
+Declaration Against Independance
+Smells Like Victory
+Ye Scurvy Dogs
+Grendel
+Message In A Bottle (Hayter's Folly)
+Just Desserts For Desert Deserters
+Message In A Bottle (The Rustyards)
+Catch A Ride And Also Tetanus
+I Know It When I See It
+Don't Copy That Floppy
+Freedom Of Speech
+Message In A Bottle (Magnys Lighthouse)
+Faster Than The Speed Of Love
+Treasure Of The Sands
+Tier 2 Battle: Bar Room Blitz
+Tier 3 Battle: Bar Room Blitz
+Tier 3 Rematch: Bar Room Blitz
+Totally Recall
+Number One Fan
+Walking The Dog
+Mother-Lover
+Tier 2 Battle: The Death Race
+Tier 3 Battle: The Death Race
+Tier 3 Rematch: The Death Race
+Monster Hunter
+Matter Of Taste
+Everybody Wants To Be Wanted
+Interview With A Vault Hunter
+Gas Guzzlers
+Say That To My Face
+Tier 2 Battle: Twelve O'Clock High
+Tier 3 Battle: Twelve O'Clock High
+Tier 3 Rematch: Twelve O'Clock High
+My Husband The Skag
+Commercial Appeal
+Tier 2 Battle: Appatite For Destruction
+Tier 3 Battle: Appatite For Destruction
+Tier 3 Rematch: Appatite For Destruction
+I Like My Monsters Rare
+Egg On Your Face
+Still Just A Borok In A Cage
+An Acquired Taste
+Palling Around
+Urine, You're Out
+Follow The Glow
+The Rakk Dahlia Murder
+Ol' Pukey
+Nakayama-Rama
+Big Feet
+Now You See It
+Post-Crumpocalyptic
+Ell In Shining Armour
+Roll Insight
+Fake Geek Guy
+MMORPGFPS
+Critical Fail
+Tree Hugger
+Lost Souls
+The Beard Makes The Man
+My Kingdom For A Wand
+The Claptrap's Apprentice
+The Sword In The Stoner
+Winter Is A Bloody Business
+Loot Ninja
+My Dead Brother
+The Amulet
+Pet Butt Stallion
+Feed Butt Stallion
+Find Murderlin's Temple
+Magic Slaughter: Round 1
+Magic Slaughter: Round 2
+Magic Slaughter: Round 3
+Magic Slaughter: Round 4
+Magic Slaughter: Round 5
+Magic Slaughter: The Badass Round
+The Oddest Couple
+The Vaughnguard
+Space Cowboy
+Hypocritical Oath
+The Hunt Is Vaughn
+Cadeuceus
+Sirentology
+Claptocurrency
+Echoes Of The Past
+A Most Cacophonous Lure
+My Brittle Pony
+BFFFs
+Chief Executive Overlord
+Creature Slaughter: Round 1
+Creature Slaughter: Round 2
+Creature Slaughter: Round 3
+Creature Slaughter: Round 4
+Creature Slaughter: Round 5
+The Bloody Harvest
+Trick Or Treat
+Hunger Pangs
+Grandma Flexington's Story
+Grandma Flexington's Story: Raid Difficulty
+Get Frosty
+Special Delivery
+A Match Made On Pandora
+Learning To Love
+Fun, Sun, and Guns
+Victims Of Vault Hunters
+
+[Category: Items / BGGuns] pick=1
+Ass Beeter! (Pistol)
+Hed Shoter!
+Magamum!
+Pistal
+Ratatater!
+Acurate smgg
+Barfy
+Burny
+rokgun
+Shoky
+Slagy
+smig
+longer ragne kilier
+overkill!
+Room Clener
+Skatergun
+Stret Sweper
+Ass Beeter! (AR)
+Carbene
+Mashine Gun
+Rokets!
+Spinigun
+Area efect
+bombabarbardeer
+Launcher (Bandit)
+Zooker
+Anaconda
+Magnum
+Negotiator
+Peacemaker
+Repeater
+Beetle
+Eel
+Fox
+Falcon
+Jackal
+Scorpion
+SMG (Dahl)
+Carbine (Dahl)
+Defender
+Grenadier (Dahl)
+Minigun (Dahl)
+Rifle (Dahl)
+Scout
+Sniper
+Strike
+Terror
+Apparatus (Hyperion)
+Impact
+Leverage
+Synergy
+Vision
+Backburner
+Presence
+Projectile Convergance
+Story
+Transmurdera
+Weisenheimer
+Wellness
+Crowdsourcing
+Development
+Face Time
+Projectile Diversification
+Thinking
+Competition
+Policy
+Sniper Rifle (Hyperion)
+Transaction
+Iron
+Longarm
+Revolver (Jakobs)
+Wheelgun
+Widow Maker
+Bushwack
+Coachgun
+Longrider
+Quad
+Scattergun
+Cannon
+Gatling Gun
+Rifle (Jakobs)
+Scarab
+Callipeen
+Chinook
+Diaub
+Muckamuck
+Aegis
+Animosity
+Phobia
+Torment
+Umbrage
+Gospel
+SubMalevolent Grace
+Provacateur
+Revenant
+Trance
+Venom
+Vexation
+Corinthian
+Jericho
+Rakehell
+Snider
+Panorama
+Projectile
+Prowler
+Punishment
+Aimshot
+Biggun
+Handgun (Tediore)
+Power Shot
+Quickshot
+Ace
+Chaff
+Green
+Kindle
+Spark
+Special (Tediore)
+Subcompact MG (Tediore)
+Double Barrels!
+Home Security
+Shotgun Supreme!
+Sportsman
+Triple Barrels
+Bazooke (Tediore)
+Dispatch
+Laucher (Tediore)
+Spread
+Hand Cannon
+Hole Puncher
+Injector
+Rod
+Slapper
+Bangstick
+Hulk
+Pounder
+Ravager
+Stalker
+Lance
+Rifle (Torgue)
+Root
+Spitter
+Torpedo
+Blaaa
+Boom
+Deee!
+Duuurp!
+Anarchist
+Assassin
+Fighter
+TMP
+Troublemaker
+Guerilla
+Renegade
+Rifle (Vladof)
+Rockateer
+Spinigun (Vladof)
+Bratchny
+Droog
+Horrowshow
+Pooshka
+Glory
+Hero
+RPG (Vladof)
+Vanquisher
+
+[Category: Items / BGGunsE] pick=1
+Ass Beeter! (Pistol)
+Hed Shoter!
+Magamum!
+Pistal
+Ratatater!
+Acurate smgg
+Barfy
+Burny
+rokgun
+Shoky
+Slagy
+smig
+longer ragne kilier
+overkill!
+Room Clener
+Skatergun
+Stret Sweper
+Ass Beeter! (AR)
+Carbene
+Mashine Gun
+Rokets!
+Spinigun
+Area efect
+bombabarbardeer
+Launcher (Bandit)
+Zooker
+Dart (Bandit)
+Spiker (Bandit)
+Plasma Caster (Bandit)
+Splasher Bashter (Bandit)
+BlASSter (Bandit)
+PRAZMA CANON (Bandit)
+Anaconda
+Magnum
+Negotiator
+Peacemaker
+Repeater
+Beetle
+Eel
+Fox
+Falcon
+Jackal
+Scorpion
+SMG (Dahl)
+Carbine (Dahl)
+Defender
+Grenadier (Dahl)
+Minigun (Dahl)
+Rifle (Dahl)
+Scout
+Sniper
+Strike
+Terror
+Dart (Dahl)
+Spiker (Dahl)
+Plasma Caster (Dahl)
+Blaster (Dahl)
+Railer (Dahl)
+Apparatus (Hyperion)
+Impact
+Leverage
+Synergy
+Vision
+Backburner
+Presence
+Projectile Convergance
+Story
+Transmurdera
+Weisenheimer
+Wellness
+Crowdsourcing
+Development
+Face Time
+Projectile Diversification
+Thinking
+Competition
+Policy
+Sniper Rifle (Hyperion)
+Transaction
+Dart (Hyperion)
+Spiker (Hyperion)
+Plasma Caster (Hyperion)
+Splatgun (Hyperion)
+Hybridification (Hyperion)
+Iron
+Longarm
+Revolver (Jakobs)
+Wheelgun
+Widow Maker
+Bushwack
+Coachgun
+Longrider
+Quad
+Scattergun
+Cannon
+Gatling Gun
+Rifle (Jakobs)
+Scarab
+Callipeen
+Chinook
+Diaub
+Muckamuck
+Aegis
+Animosity
+Phobia
+Torment
+Umbrage
+Gospel
+SubMalevolent Grace
+Provacateur
+Revenant
+Trance
+Venom
+Vexation
+Corinthian
+Jericho
+Rakehell
+Snider
+Panorama
+Projectile
+Prowler
+Punishment
+Dart (Maliwan)
+Spiker (Maliwan)
+Plasma Caster (Maliwan)
+Railer (Maliwan)
+PBFG (Maliwan)
+Aimshot
+Biggun
+Handgun (Tediore)
+Power Shot
+Quickshot
+Ace
+Chaff
+Green
+Kindle
+Spark
+Special (Tediore)
+Subcompact MG (Tediore)
+Double Barrels!
+Home Security
+Shotgun Supreme!
+Sportsman
+Triple Barrels
+Bazooke (Tediore)
+Dispatch
+Laucher (Tediore)
+Spread
+Dart (Tediore)
+Spiker (Tediore)
+Plasma Caster (Tediore)
+Splatgun (Tediore)
+Launcher (Tediore E-Tech)
+Hand Cannon
+Hole Puncher
+Injector
+Rod
+Slapper
+Bangstick
+Hulk
+Pounder
+Ravager
+Stalker
+Lance
+Rifle (Torgue)
+Root
+Spitter
+Torpedo
+Blaaa
+Boom
+Deee!
+Duuurp!
+Anarchist
+Assassin
+Fighter
+TMP
+Troublemaker
+Guerilla
+Renegade
+Rifle (Vladof)
+Rockateer
+Spinigun (Vladof)
+Bratchny
+Droog
+Horrowshow
+Pooshka
+Glory
+Hero
+RPG (Vladof)
+Vanquisher
+Dart (Vladof)
+Spiker (Vladof)
+Blaster (Vladof)
+Moloko (Vladof)
+Topneaa (Vladof)
+
+[Category: Items / BGGunsEL] pick=1
+Ass Beeter! (Pistol)
+Hed Shoter!
+Magamum!
+Pistal
+Ratatater!
+Acurate smgg
+Barfy
+Burny
+rokgun
+Shoky
+Slagy
+smig
+longer ragne kilier
+overkill!
+Room Clener
+Skatergun
+Stret Sweper
+Ass Beeter! (AR)
+Carbene
+Mashine Gun
+Rokets!
+Spinigun
+Area efect
+bombabarbardeer
+Launcher (Bandit)
+Zooker
+Dart (Bandit)
+Spiker (Bandit)
+Plasma Caster (Bandit)
+Splasher Bashter (Bandit)
+BlASSter (Bandit)
+PRAZMA CANON (Bandit)
+Anaconda
+Magnum
+Negotiator
+Peacemaker
+Repeater
+Beetle
+Eel
+Fox
+Falcon
+Jackal
+Scorpion
+SMG (Dahl)
+Carbine (Dahl)
+Defender
+Grenadier (Dahl)
+Minigun (Dahl)
+Rifle (Dahl)
+Scout
+Sniper
+Strike
+Terror
+Dart (Dahl)
+Spiker (Dahl)
+Plasma Caster (Dahl)
+Blaster (Dahl)
+Railer (Dahl)
+Apparatus (Hyperion)
+Impact
+Leverage
+Synergy
+Vision
+Backburner
+Presence
+Projectile Convergance
+Story
+Transmurdera
+Weisenheimer
+Wellness
+Crowdsourcing
+Development
+Face Time
+Projectile Diversification
+Thinking
+Competition
+Policy
+Sniper Rifle (Hyperion)
+Transaction
+Dart (Hyperion)
+Spiker (Hyperion)
+Plasma Caster (Hyperion)
+Splatgun (Hyperion)
+Hybridification (Hyperion)
+Iron
+Longarm
+Revolver (Jakobs)
+Wheelgun
+Widow Maker
+Bushwack
+Coachgun
+Longrider
+Quad
+Scattergun
+Cannon
+Gatling Gun
+Rifle (Jakobs)
+Scarab
+Callipeen
+Chinook
+Diaub
+Muckamuck
+Aegis
+Animosity
+Phobia
+Torment
+Umbrage
+Gospel
+SubMalevolent Grace
+Provacateur
+Revenant
+Trance
+Venom
+Vexation
+Corinthian
+Jericho
+Rakehell
+Snider
+Panorama
+Projectile
+Prowler
+Punishment
+Dart (Maliwan)
+Spiker (Maliwan)
+Plasma Caster (Maliwan)
+Railer (Maliwan)
+PBFG (Maliwan)
+Aimshot
+Biggun
+Handgun (Tediore)
+Power Shot
+Quickshot
+Ace
+Chaff
+Green
+Kindle
+Spark
+Special (Tediore)
+Subcompact MG (Tediore)
+Double Barrels!
+Home Security
+Shotgun Supreme!
+Sportsman
+Triple Barrels
+Bazooke (Tediore)
+Dispatch
+Laucher (Tediore)
+Spread
+Dart (Tediore)
+Spiker (Tediore)
+Plasma Caster (Tediore)
+Splatgun (Tediore)
+Launcher (Tediore E-Tech)
+Hand Cannon
+Hole Puncher
+Injector
+Rod
+Slapper
+Bangstick
+Hulk
+Pounder
+Ravager
+Stalker
+Lance
+Rifle (Torgue)
+Root
+Spitter
+Torpedo
+Blaaa
+Boom
+Deee!
+Duuurp!
+Anarchist
+Assassin
+Fighter
+TMP
+Troublemaker
+Guerilla
+Renegade
+Rifle (Vladof)
+Rockateer
+Spinigun (Vladof)
+Bratchny
+Droog
+Horrowshow
+Pooshka
+Glory
+Hero
+RPG (Vladof)
+Vanquisher
+Dart (Vladof)
+Spiker (Vladof)
+Blaster (Vladof)
+Moloko (Vladof)
+Topneaa (Vladof)
+Veritas
+Hail
+Infinity
+Shredifier
+Lyuda
+Mongol
+Landscaper
+Evil Smasher
+12 Pounder
+Creamer
+Unkempt Harold
+Flakker
+KerBlaster
+Nukem
+Blockhead
+Octo
+Gunerang
+Baby Maker
+Deliverance
+Bunny
+Rubi
+Bad Touch
+Good Touch
+Chulainn
+Chere-amie
+Hive
+Thunderball Fists
+HellFire
+Volcano
+Norfleet
+Pyrophobia
+Law
+Judge
+Triquetra
+Tidal Wave
+Elephant Gun
+Trespasser
+Maggie
+Striker
+Hammer Buster
+Fibber
+Lady Fist
+Bane
+Commerce
+Heart Breaker
+Shotgun 1340
+Fremington's Edge
+Morningstar
+Logan's Gun
+Bitch
+Conference Call
+Invader
+Longbow
+Dahlminator
+Gwen's Head
+Teapot
+Lascaux
+Scorpio
+Sloth
+Hornet
+Emperor
+Veruc
+Pitchfork
+Tinderbox
+Bone Shredder
+Dog
+RokSalt
+Teeth of Terramorphous
+Roaster
+Gub
+Slagga
+Sledge's Shotgun
+Madhous!
+Badaboom
+
+[Category: Items / FarmableUniques] pick=1
+Baby Maker
+Badaboom
+Bitch or Sham
+Deliverance
+Emperor
+Gub
+Gunerang
+Hammer Buster
+Hellfire
+Hornet
+Infinity
+Invader
+KerBlaster
+Logan's Gun
+Madhous!
+Maggie
+Mongol
+Nukem
+Pyrophobia
+Slagga
+Sledge's Shotgun
+Striker
+Thunderball Fists
+Unkempt Harold
+Veruc
+Black Hole
+Fabled Tortoise
+Neogenator
+The Bee
+The Cradle
+The Transformer
+Bonus Package
+Fastball
+Pandemic
+Rolling Thunder
+Storm Front
+Hive
+Bone Shredder
+Sherrif's Badge
+Law (No Quest)
+Commerce
+Judge
+Fremmingtons Edge
+Dog
+Good Touch
+Bad Touch
+
+[Category: Items / FarmableUniquesDLC] pick=1
+Baby Maker
+Badaboom
+Bitch or Sham
+Deliverance
+Emperor
+Gub
+Gunerang
+Hammer Buster
+Hellfire
+Hornet
+Infinity
+Invader
+KerBlaster
+Logan's Gun
+Madhous!
+Maggie
+Mongol
+Nukem
+Pyrophobia
+Slagga
+Sledge's Shotgun
+Striker
+Thunderball Fists
+Unkempt Harold
+Veruc
+Black Hole
+Fabled Tortoise
+Neogenator
+The Bee
+The Cradle
+The Transformer
+Bonus Package
+Fastball
+Pandemic
+Rolling Thunder
+Storm Front
+Hive
+Bone Shredder
+Sherrif's Badge
+Law (No Quest)
+Commerce
+Judge
+Fremmingtons Edge
+Dog
+Good Touch
+Bad Touch
+12 Pounder
+Cobra
+Skullmasher
+Cracked Sash
+Damned Cowboy
+Elephant Gun
+Fireball
+Hydra
+Law (From Sherriff)
+Lightning Bolt
+Little Evie
+Magic Missile
+Pocket Rocket
+Hammerlocks Rex
+Rough Rider
+Slow Hand
+Twister
+Winter is Over
+Yellow JAcket
+Orc
+
+[Category: Items / Grenades] pick=1
+Bandit
+Dahl
+Hyperion
+Maliwan
+Tediore
+Torgue
+Vladof
+
+[Category: Items / Guns] pick=1
+Ass Beeter! (Pistol)
+Hed Shoter!
+Magamum!
+Pistal
+Ratatater!
+Acurate smgg
+Barfy
+Burny
+rokgun
+Shoky
+Slagy
+smig
+longer ragne kilier
+overkill!
+Room Clener
+Skatergun
+Stret Sweper
+Ass Beeter! (AR)
+Carbene
+Mashine Gun
+Rokets!
+Spinigun
+Area efect
+bombabarbardeer
+Launcher (Bandit)
+Zooker
+Dart (Bandit)
+Spiker (Bandit)
+Plasma Caster (Bandit)
+Splasher Bashter (Bandit)
+BlASSter (Bandit)
+PRAZMA CANON (Bandit)
+Anaconda
+Magnum
+Negotiator
+Peacemaker
+Repeater
+Beetle
+Eel
+Fox
+Falcon
+Jackal
+Scorpion
+SMG (Dahl)
+Carbine (Dahl)
+Defender
+Grenadier (Dahl)
+Minigun (Dahl)
+Rifle (Dahl)
+Scout
+Sniper
+Strike
+Terror
+Dart (Dahl)
+Spiker (Dahl)
+Plasma Caster (Dahl)
+Blaster (Dahl)
+Railer (Dahl)
+Apparatus (Hyperion)
+Impact
+Leverage
+Synergy
+Vision
+Backburner
+Presence
+Projectile Convergance
+Story
+Transmurdera
+Weisenheimer
+Wellness
+Crowdsourcing
+Development
+Face Time
+Projectile Diversification
+Thinking
+Competition
+Policy
+Sniper Rifle (Hyperion)
+Transaction
+Dart (Hyperion)
+Spiker (Hyperion)
+Plasma Caster (Hyperion)
+Splatgun (Hyperion)
+Hybridification (Hyperion)
+Iron
+Longarm
+Revolver (Jakobs)
+Wheelgun
+Widow Maker
+Bushwack
+Coachgun
+Longrider
+Quad
+Scattergun
+Cannon
+Gatling Gun
+Rifle (Jakobs)
+Scarab
+Callipeen
+Chinook
+Diaub
+Muckamuck
+Aegis
+Animosity
+Phobia
+Torment
+Umbrage
+Gospel
+SubMalevolent Grace
+Provacateur
+Revenant
+Trance
+Venom
+Vexation
+Corinthian
+Jericho
+Rakehell
+Snider
+Panorama
+Projectile
+Prowler
+Punishment
+Dart (Maliwan)
+Spiker (Maliwan)
+Plasma Caster (Maliwan)
+Railer (Maliwan)
+PBFG (Maliwan)
+Aimshot
+Biggun
+Handgun (Tediore)
+Power Shot
+Quickshot
+Ace
+Chaff
+Green
+Kindle
+Spark
+Special (Tediore)
+Subcompact MG (Tediore)
+Double Barrels!
+Home Security
+Shotgun Supreme!
+Sportsman
+Triple Barrels
+Bazooke (Tediore)
+Dispatch
+Laucher (Tediore)
+Spread
+Dart (Tediore)
+Spiker (Tediore)
+Plasma Caster (Tediore)
+Splatgun (Tediore)
+Launcher (Tediore E-Tech)
+Hand Cannon
+Hole Puncher
+Injector
+Rod
+Slapper
+Bangstick
+Hulk
+Pounder
+Ravager
+Stalker
+Lance
+Rifle (Torgue)
+Root
+Spitter
+Torpedo
+Blaaa
+Boom
+Deee!
+Duuurp!
+Anarchist
+Assassin
+Fighter
+TMP
+Troublemaker
+Guerilla
+Renegade
+Rifle (Vladof)
+Rockateer
+Spinigun (Vladof)
+Bratchny
+Droog
+Horrowshow
+Pooshka
+Glory
+Hero
+RPG (Vladof)
+Vanquisher
+Dart (Vladof)
+Spiker (Vladof)
+Blaster (Vladof)
+Moloko (Vladof)
+Topneaa (Vladof)
+Veritas
+Hail
+Kitten
+Rapier
+Infinity
+Shredifier
+Lyuda
+Mongol
+Stinger
+Lead Storm
+Patriot
+Stalker (Vladof)
+Pocket Rocket
+Landscaper
+SWORDSPLOSION!!!
+Evil Smasher
+Boom Puppy
+12 Pounder
+Creamer
+Unkempt Harold
+Flakker
+KerBlaster
+Ogre
+Nukem
+Devastator
+Ahab
+Seeker
+Tunguska
+Carnage
+Peak Opener
+World Burn
+Unicornsplosion
+Blockhead
+Octo
+Gunerang
+Baby Maker
+Deliverance
+Bunny
+Retcher
+Omen
+Avenger
+Infection Cleaner
+Rubi
+Little Evie
+Grog Nozzle
+Bad Touch
+Good Touch
+Chulainn
+Crit
+Chere-amie
+Pimpernel
+Hive
+Thunderball Fists
+HellFire
+Volcano
+Norfleet
+Pyrophobia
+Infection
+Florentine
+Wanderlust
+Storm
+Nirvana
+Greed
+Law
+Judge
+Rex
+Hydra
+Orphan Maker
+Triquetra
+Twister
+Tidal Wave
+Damned Cowboy
+Elephant Gun
+Trespasser
+Maggie
+Striker
+Hammer Buster
+M2828 Thumpson
+Amigo Sincero
+Skullmasher
+Hawk Eye
+Unforgiven
+Bekah
+Godfinger
+Hot Mama
+Fibber
+Lady Fist
+Bane
+Commerce
+Yellow Jacket
+Heart Breaker
+Shotgun 1340
+Slow Hand
+Fremington's Edge
+Morningstar
+Logan's Gun
+Bitch
+Conference Call
+Overcompensator
+Invader
+Longbow
+Actualiser
+Interfacer
+Butcher
+Dahlminator
+Gwen's Head
+Teapot
+Lascaux
+Sandhawk
+Scorpio
+Sloth
+Hornet
+Hector's Paradise
+Emperor
+Veruc
+Pitchfork
+Seraphim
+Bearcat
+Toothpick
+Tinderbox
+Bone Shredder
+Orc
+Dog
+Jolly Roger
+RokSalt
+Teeth of Terramorphous
+CHOPPER
+Roaster
+Gub
+Slagga
+Sledge's Shotgun
+Madhous!
+Badaboom
+Tattler
+Sawbar
+
+[Category: Items / Manufacturers] pick=1
+Bandit
+Dahl
+Hyperion
+Jakobs
+Maliwan
+Tediore
+Torgue
+Vladof
+
+[Category: Items / Prefixes] pick=1
+Quartz
+Emerald
+Diamond
+Citrine
+Aquamarine
+Cubic Zirconia
+Rock
+Garnet
+Nassty
+Attack
+Boss
+Nasty
+Ferocious
+Wyld Asss Feral
+Wild
+Rabid
+Nifed
+Breach
+Razor
+Stabbing
+Skewering
+Fast Bulets
+Deep
+Cowboy
+Slippery
+Swift
+Taktikal
+Patrol
+Horse
+Rhythmic
+Resolute
+Expandifide
+Onslought
+Flush
+Plump
+Expansive
+Akurate
+Scout
+Deadshot
+Rigorous
+Severe
+Fire Fire
+Incendiary
+Hot
+Zapper
+Sapping
+Crudy
+Corrosive
+Slaged
+Slag
+Bandity
+Reserve
+Filled
+Lumpy
+Forlorn
+Greesy
+Smooth
+Slick
+Woeful
+hevy
+Heavy
+Ornery
+Hard
+Oppressed
+hurty
+Skirmish
+Leather
+Thick
+Grim
+shooty
+Blitz
+Fast
+Wanton
+Angry
+Carbinated
+Rokit
+Double Tap
+Nonuple
+Musket;d
+Shoom
+Sputtering
+Rocket
+Cartel
+Contingent
+Tl'kope
+Sublime
+Britva
+Surgical
+Longitudinal
+Siah-Siah
+Dandy
+Zammechat
+Night
+Enterprise
+Venture
+Tumtum
+Gentleman's
+Razrez
+Liquid
+Cohesion
+Shikamin
+Fashionable
+Dobby
+Operational
+Resource
+Hyui
+Monstrous
+Bolshy
+Suppresive
+Operational
+Klook
+Banbury
+Skorry
+Pacifying
+Auditing
+Skookum
+Barking
+Gromky
+Phospher
+Thermogenic
+Scarlet
+Phosphor
+Shock
+Energy
+Zooks
+Strack
+Nerve
+Residual
+Bumblebroth
+Splodge
+Slag
+Diffusion
+Deuced
+Bolnoy
+Smooth
+Standard
+Chuck
+Nochy
+Light
+Galvanising
+Ee'nastick
+Sneety
+Heavy
+Constructive
+Kull
+Sladky
+Burst Fire
+No Prefix
+Blitz
+Expediting
+Kwalal Kwalal
+Kot
+Bayaneted
+Close Quarters
+Action
+Bowie
+Evisceration
+Permasharp
+Thrusting
+Patriot's
+misles
+Floated
+Earnest
+Straight Shootin'
+Punctilious
+Dependable
+Explicit
+Righteous
+Dubble
+Twin
+Redundant
+Two Fer
+Binary
+Two for One
+Double Penetrating
+Dva
+Marxmans
+Tactical
+Core
+Gunstock
+Elegant
+Clean
+stiff
+Resolute
+Extendified
+Loaded
+Maximized
+Loaded
+Surfeit
+Jam Packed
+Crammed
+Unending
+murduerer's
+Neutralizing
+Win-Win
+Dastardly
+Potent
+Super
+Hard
+Purging
+Rapidier
+React
+Dynamic
+Thick Shot
+Expeditious
+Peppy
+Intense
+Vengeful
+Hot Button
+Red Hot
+Burning
+Energizing
+Discharge
+Base
+Trenchant
+Pine Fresh
+Caustic
+Amp
+Amplified
+Disinfecting
+Reserve
+Acquired
+Value
+Standard
+Fresh
+lite
+Galvanizing
+Fine
+Target
+Straight
+Despair
+redy
+React
+Solid
+Top-Notch
+Easy
+Bulk
+Disposable
+Genuine
+Snappy
+Contructive
+Auto Correcting
+Solid
+Granular
+Expediting
+Slising
+Restructuring
+Barbed
+Swiss
+Bad Touch
+Drumed
+Scalable
+Sidewinder
+Extra LArge
+Desperate
+Redy Stedy
+Social
+Well Kept
+New and Improved
+Sinewy
+Sketer
+Potental
+Huntin'
+Original
+Potent
+Critikal Hit
+Critical
+Doc's
+Royal
+Juicy
+Quik Loadeder
+Reactive
+Texas
+Basic
+Impetuous
+Assssult
+Practicible
+Rustler's
+Gentle
+Casual
+Clement
+Conductive
+Industrial
+Negative
+Sunny
+Blue Light
+Sprint Time
+Boosted
+Ornery
+Handy
+Leather
+Huntining
+Duble Bareld
+Threpul
+Customer Focused
+Bilateral
+Tri-Fusion
+Zero'd-In
+Two-Shot
+Three-Shot
+Fixated
+Double Lovin'
+Three Way
+Cutting
+Akurate
+Murduring
+Bulets Go Fasterified
+Balanced
+Aggresive
+Bladed
+Deft
+Stoppig
+Flying
+Stoic
+Skirmish
+Cutting Edge
+Analytical
+Rightsizing
+Proactive
+Corporate
+Social
+Acuminous
+Guileless
+Consummate
+Impetuous
+Lucid
+Apt
+Perma-Sharp
+Guaranteed
+Hefty
+Brist
+Quality
+Refill
+Fervid
+Storming
+Caustic
+Feculent
+Toasty
+Sparkling
+Peppermint
+Biodegradable
+Jery Riged
+Burst Fire
+Autocorrecting
+Roket Pawket
+Plentious
+Bonus
+Deep a
+Worker's
+Snyper
+Pertinent
+Ultraprecise
+gaa dunk ga
+Victorious
+fast actons
+Prudential
+Stocking
+dippity
+Ruthless
+Rappid
+Predacious
+Bustling
+dum pa
+Turbulent
+Big
+Puissant
+Large
+derp
+Rugged
+Speeedee
+Punitory
+Rocket Speed
+Ridle Dee
+Partisan
+Quik Drawler
+Parataxis
+Swapper's
+Fwap A
+Moscovite's
+Hunka burnin
+Shoky
+corodoe
+Pyroclastic
+Paraelectronomic
+Paraquat
+Purulence
+Fingicide
+Red
+Shock
+Virulent
+Opposing
+gratuius
+Proximate
+Multi-Use
+pokee doke
+rock a
+Waka
+Boosh a
+Verm dee
+Revolt
+Ict
+Grim
+Angry
+Snappy
+Nasty
+Rocket
+
+[Category: Items / Prefixless] pick=1
+Callipeen
+Chinook
+Diaub
+Muckamuck
+Droog
+Bratchny
+Pooshka
+Horrorshow
+Competition
+Policy
+Transaction
+Sniper Rifle (Hyperion)
+Ass Beeter! (Pistol)
+Hed Shoter!
+Magamum!
+Pistal
+Ratatater!
+Anaconda
+Magnum
+Negotiator
+Peacemaker
+Repeater
+Iron
+Longarm
+Revolver (Jakobs)
+Wheelgun
+Widow Maker
+Hand Cannon
+Hole Puncher
+Injector
+Rod
+Slapper
+Anarchist
+Assassin
+Fighter
+TMP
+Troublemaker
+
+[Category: Items / Rarities] pick=1
+White
+Green
+Blue
+Purple
+Legendary (Orange)
+
+[Category: Items / Relics + Uniques] pick=1
+Vitality
+Allegiance
+Stockpile
+Protection
+Aggression
+Resistance
+Tenacity
+Elemental
+Proficiency
+Strength
+The Afterburner
+Blood of Terramorphous
+Captain Blade's Otto Idol
+Moxxi's Endowment
+Sherriff's Badge
+Deputy's Badge
+Vault Hunter's Relic
+Lucrative Opportunity
+Blood of the Seraphs
+Might of the Seraphs
+Breath of the Seraphs
+Shadow of the Seraphs
+Mysterious Amulet
+Hard Carry
+Mouthwash
+Blood of the Ancients
+Bone of the Ancients
+Heart of the Ancients
+Skin of the Ancients
+
+[Category: Items / Relics] pick=1
+Vitality
+Allegiance
+Stockpile
+Protection
+Agression
+Resistance
+Tenacity
+Elemental
+Proficiency
+Strength
+
+[Category: Items / Shields] pick=1
+Tediore
+Anshin
+Pangolin
+Torgue
+Hyperion
+Bandit
+Dahl
+Vladof
+Maliwan
+
+[Category: Items / UVHMRarities] pick=1
+White
+Green
+Blue
+Purple
+E-Tech
+Orange (Legendary)
+Pearlescent
+Seraph
+Effervescent
+
+[Category: Items / UltimateRandom] pick=1
+Bandit Pistol
+Bandit Assault Rifle
+Bandit Rocket Launcher
+Bandit Shotgun
+Bandit SMG
+Dahl Pistol
+Dahl Assault Rifle
+Dahl SMG
+Dahl Sniper
+Hyperion Pistol
+Hyperion Shotgun
+Hyperion Sniper
+Hyperion SMG
+Jakobs Pistol
+Jakobs Assult Rifle
+Jakobs Shotgun
+Jakobs Sniper
+Maliwan Pistol
+Maliwan Rocket Launcher
+Maliwan SMG
+Maliwan Sniper
+Tediore Pistol
+Tediore Rocket Launcher
+Tediore Shotgun
+Tediore SMG
+Torgue Pistol
+Torgue Assault Rifle
+Torgue Rocket Launcher
+Torgue Shotgun
+Vladof Pistol
+Vladof Assault Rifle
+Vladof Rocket Launcher
+Vladof Sniper
+
+[Category: Items / WeaponTypes] pick=1
+Pistol
+Assault Rifle
+Rocket Launcher
+Shotgun
+SMG
+Sniper Rifle
